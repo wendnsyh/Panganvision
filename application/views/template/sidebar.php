@@ -51,7 +51,7 @@
                     <span>Logistik</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="charts.html">
+                <a class="nav-link" href="<?php echo base_url('Pangan')?>">
                     <i class="fas fa-seedling"></i>
                     <span>Pangan</span></a>
             </li>
